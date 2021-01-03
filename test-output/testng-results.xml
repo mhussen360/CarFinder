@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-02T20:11:54 EST" name="Default suite" finished-at="2021-01-02T20:13:30 EST" duration-ms="95768">
+    <groups>
+    </groups>
+    <test started-at="2021-01-02T20:11:54 EST" name="Default test" finished-at="2021-01-02T20:13:30 EST" duration-ms="95768">
+      <class name="com.autotrader.carSearchTest">
+        <test-method signature="SearchTest()[pri:0, instance:com.autotrader.carSearchTest@5f683daf]" started-at="2021-01-02T20:11:55 EST" name="SearchTest" finished-at="2021-01-02T20:13:30 EST" duration-ms="95556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+      </class> <!-- com.autotrader.carSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
