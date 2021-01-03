@@ -15,7 +15,7 @@ public class carSearchTest {
 		// Steps to test car searching functionality
 		System.out.println("Starting searchFlightTest");
 
-		// Step 1: Create Driver (What is a driver)
+		// Step 1: Create Driver
 		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
